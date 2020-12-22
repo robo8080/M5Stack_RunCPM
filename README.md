@@ -18,8 +18,6 @@ RunCPM - Z80 CP/M 2.2 emulator <https://github.com/MockbaTheBorg/RunCPM><br>
 ライブラリはArduino IDEの[スケッチ | ライブラリをインクルード |ライブラリを管理...] からインストールすると簡単です。
 
 
-「Tera Term」定番のターミナルエミュレーター
-
 ---
 
 ### 参考資料 ###
